@@ -1,0 +1,137 @@
+# Catalan translation for kcm-gtk
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the kcm-gtk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm-gtk\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-13 20:10+0000\n"
+"PO-Revision-Date: 2009-08-17 14:43+0000\n"
+"Last-Translator: David Planella <Unknown>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-10-23 01:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: kcmgtk.cpp:67
+msgid "kcm_gtk"
+msgstr "kcm_gtk"
+
+#: kcmgtk.cpp:68
+msgid "GTK Styles and Fonts"
+msgstr "Estils i tipus de lletra del GTK"
+
+#: kcmgtk.cpp:69
+msgid "(C) 2008 David Sansome"
+msgstr "(C) 2008 David Sansome"
+
+#: kcmgtk.cpp:70
+msgid "(C) 2009 Jonathan Thomas"
+msgstr "(C) 2009 Jonathan Thomas"
+
+#: kcmgtk.cpp:71
+msgid "Change the appearance of GTK+ applications in KDE"
+msgstr "Canvieu l'aparença de les aplicacions GTK+ en el KDE"
+
+#: kcmgtk.cpp:107
+#, kde-format
+msgid "%1 (size %2)"
+msgstr "%1 (mida %2)"
+
+#. i18n: file: kcmgtkwidget.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:3 rc.cpp:44
+msgid "GTK+ Styles"
+msgstr "Estils del GTK+"
+
+#. i18n: file: kcmgtkwidget.ui:45
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:6 rc.cpp:47
+msgid "&Widget style:"
+msgstr "Estil dels &ginys:"
+
+#. i18n: file: kcmgtkwidget.ui:71
+#. i18n: ectx: property (text), widget (QPushButton, warning3)
+#: rc.cpp:9 rc.cpp:50
+msgid "Change search paths..."
+msgstr "Canvia els camins de cerca..."
+
+#. i18n: file: kcmgtkwidget.ui:94
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:12 rc.cpp:53
+msgid "GTK+ Fonts"
+msgstr "Tipus de lletra del GTK+"
+
+#. i18n: file: kcmgtkwidget.ui:124
+#. i18n: ectx: property (text), widget (QRadioButton, fontKde)
+#: rc.cpp:15 rc.cpp:56
+msgid "Use m&y KDE fonts in GTK+ applications"
+msgstr "Utilitza els meus tipus de &lletra del KDE en les aplicacions GTK+"
+
+#. i18n: file: kcmgtkwidget.ui:131
+#. i18n: ectx: property (text), widget (QRadioButton, fontOther)
+#: rc.cpp:18 rc.cpp:59
+msgid "Use another font:"
+msgstr "Utilitza un altre tipus de lletra:"
+
+#. i18n: file: kcmgtkwidget.ui:138
+#. i18n: ectx: property (text), widget (QPushButton, fontChange)
+#: rc.cpp:21 rc.cpp:62
+msgid "Change..."
+msgstr "Canvia..."
+
+#. i18n: file: kcmgtkwidget.ui:165
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, qtcurveFontLabel)
+#: rc.cpp:24 rc.cpp:65
+msgid "The QtCurve widget theme uses your KDE font settings"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:184
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: rc.cpp:27 rc.cpp:68
+msgid ""
+"Note that changes made here will only affect GTK+ applications when KDE is "
+"running.  To change the styles and fonts used by applications in GNOME, use "
+"the GNOME configuration tools."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:20
+#. i18n: ectx: property (windowTitle), widget (QWidget, SearchPaths)
+#: rc.cpp:30 rc.cpp:71
+msgid "Change search paths"
+msgstr "Canvia els camins de cerca"
+
+#. i18n: file: searchpaths.ui:26
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33 rc.cpp:74
+msgid ""
+"You can set a custom search path here if we were not able to find a GTK+ "
+"theme engine. This could happen if the theme engine was installed to a "
+"custom location."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:50
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: rc.cpp:36 rc.cpp:77
+msgid "Add"
+msgstr "Afegeix"
+
+#. i18n: file: searchpaths.ui:63
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: rc.cpp:39 rc.cpp:80
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: rc.cpp:40
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr " ,Launchpad Contributions:,David Planella"
+
+#: rc.cpp:41
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",,"

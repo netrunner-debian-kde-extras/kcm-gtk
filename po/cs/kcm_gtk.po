@@ -1,0 +1,291 @@
+#: kcmgtk.cpp:67
+msgid "kcm_gtk"
+msgstr ""
+
+#: kcmgtk.cpp:68
+msgid "GTK Styles and Fonts"
+msgstr ""
+
+#: kcmgtk.cpp:69
+msgid "(C) 2008 David Sansome"
+msgstr ""
+
+#: kcmgtk.cpp:70
+msgid "(C) 2009 Jonathan Thomas"
+msgstr ""
+
+#: kcmgtk.cpp:71
+msgid "Change the appearance of GTK+ applications in KDE"
+msgstr ""
+
+#: kcmgtk.cpp:107
+#, kde-format
+msgid "%1 (size %2)"
+msgstr "%1 (velikost %2)"
+
+#. i18n: file: kcmgtkwidget.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:3 rc.cpp:44
+msgid "GTK+ Styles"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:45
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:6 rc.cpp:47
+msgid "&Widget style:"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:71
+#. i18n: ectx: property (text), widget (QPushButton, warning3)
+#: rc.cpp:9 rc.cpp:50
+msgid "Change search paths..."
+msgstr "Zmnit vyhledvac cesty..."
+
+#. i18n: file: kcmgtkwidget.ui:94
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:12 rc.cpp:53
+msgid "GTK+ Fonts"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:124
+#. i18n: ectx: property (text), widget (QRadioButton, fontKde)
+#: rc.cpp:15 rc.cpp:56
+msgid "Use m&y KDE fonts in GTK+ applications"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:131
+#. i18n: ectx: property (text), widget (QRadioButton, fontOther)
+#: rc.cpp:18 rc.cpp:59
+msgid "Use another font:"
+msgstr "Pout jin psmo:"
+
+#. i18n: file: kcmgtkwidget.ui:138
+#. i18n: ectx: property (text), widget (QPushButton, fontChange)
+#: rc.cpp:21 rc.cpp:62
+msgid "Change..."
+msgstr "Zmnit..."
+
+#. i18n: file: kcmgtkwidget.ui:165
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, qtcurveFontLabel)
+#: rc.cpp:24 rc.cpp:65
+msgid "The QtCurve widget theme uses your KDE font settings"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:184
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: rc.cpp:27 rc.cpp:68
+msgid ""
+"Note that changes made here will only affect GTK+ applications when KDE is "
+"running.  To change the styles and fonts used by applications in GNOME, use "
+"the GNOME configuration tools."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:20
+#. i18n: ectx: property (windowTitle), widget (QWidget, SearchPaths)
+#: rc.cpp:30 rc.cpp:71
+msgid "Change search paths"
+msgstr "Zmnit vyhledvac cesty"
+
+#. i18n: file: searchpaths.ui:26
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33 rc.cpp:74
+msgid ""
+"You can set a custom search path here if we were not able to find a GTK+ "
+"theme engine. This could happen if the theme engine was installed to a "
+"custom location."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:50
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: rc.cpp:36 rc.cpp:77
+msgid "Add"
+msgstr ""
+
+#. i18n: file: searchpaths.ui:63
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: rc.cpp:39 rc.cpp:80
+msgid "Remove"
+msgstr ""
+
+#: rc.cpp:40
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr " ,Launchpad Contributions:,David Watzke"
+
+#: rc.cpp:41
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",,"
+
+msgid "Emacs Keyboard Shortcuts"
+msgstr "Klvesov zkratky Emacsu"
+
+msgid ""
+"These keyboard shortcuts are useful for Emacs users.\n"
+"When enabled, they will override the standard keyboard shortcuts in GTK "
+"applications."
+msgstr ""
+"Tyto klvesov zkratky jsou uiten pro uivatele Emacsu.\n"
+"Kdy je povolte, pouij se msto vchozch klvesovch zkratek v GTK aplikacch."
+
+msgid "Shortcut"
+msgstr "Zkratka"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Ctrl+A"
+msgstr "Ctrl+A"
+
+msgid "Go to beginning of line"
+msgstr "Pejt na zatek dku"
+
+msgid "Ctrl+E"
+msgstr "Ctrl+E"
+
+msgid "Go to end of line"
+msgstr "Pejt na konec dku"
+
+msgid "Ctrl+F"
+msgstr "Ctrl+F"
+
+msgid "Go right one character"
+msgstr "Pejt o jeden znak vpravo"
+
+msgid "Ctrl+B"
+msgstr "Ctrl+B"
+
+msgid "Go left one character"
+msgstr "Pejt o jeden znak vlevo"
+
+msgid "Ctrl+K"
+msgstr "Ctrl+K"
+
+msgid "Delete to end of line"
+msgstr "Smazat do konce dku"
+
+msgid "Ctrl+U"
+msgstr "Ctrl+U"
+
+msgid "Delete entire line"
+msgstr "Smazat cel dek"
+
+msgid "Ctrl+W"
+msgstr "Ctrl+W"
+
+msgid "Delete word, left"
+msgstr "Smazat slovo nalevo"
+
+msgid "Ctrl+H"
+msgstr "Ctrl+H"
+
+msgid "Delete character, left"
+msgstr "Smazat znak nalevo"
+
+msgid "Ctrl+D"
+msgstr "Ctrl+D"
+
+msgid "Delete character, right"
+msgstr "Smazat znak napravo"
+
+msgid "C&lose"
+msgstr "&Zavt"
+
+msgid "Form2"
+msgstr "Formul 2"
+
+msgid "&Use my KDE style in GTK applications"
+msgstr "Po&ut mj KDE styl pro GTK aplikace"
+
+msgid "Use &another style:"
+msgstr "Pout &jin styl:"
+
+msgid ""
+"<b>Warning:</b> The Gtk-Qt theme engine is not installed.  This means you "
+"will not be able to use your KDE style in GTK applications."
+msgstr ""
+"<b>Varovn:</b> Gtk-Qt theme engine nen nainstalovan. To znamen, e nebudete "
+"moci pouvat v styl KDE v GTK aplikacch."
+
+msgid "Gtk-Qt theme engine homepage"
+msgstr "Domovsk strnka Gtk-Qt theme engine"
+
+msgid "http://gtk-qt.ecs.soton.ac.uk/"
+msgstr "http://gtk-qt.ecs.soton.ac.uk/"
+
+msgid "The Quick Brown Fox Jumped Over The Lazy Dog"
+msgstr "luouk k pl belsk dy"
+
+msgid "Alt+Y"
+msgstr "Alt+Y"
+
+msgid "Preview line 1"
+msgstr "Ukzkov dek 1"
+
+msgid "GTK Keyboard Shortcuts"
+msgstr "Klvesov zkratky GTK"
+
+msgid "Use Emacs-like key&board shortcuts for text editing"
+msgstr "Pout klvesov zkratky Emacsu pro editaci textu"
+
+msgid "Alt+B"
+msgstr "Alt+B"
+
+msgid "Details..."
+msgstr "Podrobnosti..."
+
+msgid "Firefox and Thunderbird"
+msgstr "Firefox a Thunderbird"
+
+msgid ""
+"Scrollbar buttons may sometimes be displayed incorrectly in Firefox and "
+"Thunderbird.  This can be fixed by installing some files into your Mozilla "
+"profile."
+msgstr ""
+"Je mon, e se vm tlatka na posuvncch ve Firefoxu a Thunderbirdu zobrazuj "
+"nesprvn. Toto lze opravit nainstalovnm jistch soubor do Mozilla profilu."
+
+msgid "I&nstall scrollbar fix..."
+msgstr "Nai&nstalovat opravu posuvnku..."
+
+msgid ""
+"The control center module could not find the GTK-Qt theme engine in its list "
+"of search paths.  If you have installed it elsewhere, you will need to add "
+"the correct path to the list below."
+msgstr ""
+"Modul ovldacho centra nemohl nalzt GTK-Qt theme engine ve svm seznamu cest "
+"pro vyhledvn. Pokud jste jej nainstalovali jinam, ne zadejte sprvnou cestu."
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Please select the profiles that you want to fix:"
+msgstr "Zvolte profily, kter si pejete opravit:"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "No Mozilla profiles found"
+msgstr "dn profily Mozilly nebyly nalezeny"
+
+msgid "Could not load Mozilla profiles"
+msgstr "Nelze nast profily Mozilly"
+
+msgid "Mozilla profile"
+msgstr "Mozilla profil"
+
+msgid ""
+"Your Mozilla profile was updated sucessfully.  You must close and restart "
+"all Firefox and Thunderbird windows for the changes to take effect"
+msgstr ""
+"V Mozilla profil byl spn aktualizovn. Aby se zmny projevily, je teba ukonit "
+"a optovn spustit Firefox a Thunderbird."
+
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Could not write to %1"
+msgstr "Nelze zapisovat do %1"

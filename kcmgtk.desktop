@@ -1,0 +1,31 @@
+[Desktop Entry]
+Name=GTK+ Appearance
+Comment=Control the style and fonts used by GTK+ applications in KDE
+Exec=kcmshell4 kcmgtk
+Icon=kcm_gtk.png
+
+X-KDE-Keywords=kcmgtk,gtk,gtk+,style,font,theme
+
+Name[es]=Apariencia GTK+
+Comment[es]=Controla el estilo y las tipografías usadas por las aplicaciones GTK+ en KDE
+Name[de]=GTK+-Stile und Schriftarten
+Comment[de]=Einstellung der Stile und Schriftarten in GTK+-Anwendungen
+Name[fr]=Styles et Polices GTK+
+Comment[fr]=Détermine le style et les polices utilisés par les applications GTK+
+Name[it]=Stili e caratteri GTK+
+Comment[it]=Configura stili e caratteri usati dalle applicazioni GTK+
+Name[pt_BR]=Aparência GTK+
+Comment[pt_BR]=Controlar o estilo e a fonte usada por aplicativo GTK+ no KDE
+Name[ru]=Стили и шрифты GTK+
+Comment[ru]=Управление стилями и шрифтами GTK+
+Name[sq]=Pamja GTK+
+Comment[sq]=Kontrollo stilin dhe gërmat e përdorura nga programet GTK+ në KDE
+Name[tr]=GTK+ Görünümü
+Comment[tr]=KDE altında GTK+ uygulamalarının görünüm ve yazı tiplerini denetle
+
+Type=Service
+X-KDE-ServiceTypes=KCModule
+X-KDE-Library=kcm_gtk
+X-KDE-ParentApp=kcontrol
+Categories=Qt;KDE;X-KDE-settings-looknfeel;
+X-KDE-System-Settings-Parent-Category=appearance

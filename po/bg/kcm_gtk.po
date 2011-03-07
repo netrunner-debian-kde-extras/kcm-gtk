@@ -1,0 +1,217 @@
+# translation of bg.po to Bulgarian
+# This file is put in the public domain.
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: bg\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-26 03:53+0000\n"
+"PO-Revision-Date: 2007-04-05 16:13+0000\n"
+"Last-Translator: Zlatko Popov <zlatkopopov@fsa-bg.org>\n"
+"Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: kcmgtk.cpp:67
+msgid "kcm_gtk"
+msgstr ""
+
+#: kcmgtk.cpp:68
+#, fuzzy
+msgid "GTK Styles and Fonts"
+msgstr "GTK стилове"
+
+#: kcmgtk.cpp:69
+msgid "(C) 2008 David Sansome"
+msgstr ""
+
+#: kcmgtk.cpp:70
+msgid "(C) 2009 Jonathan Thomas"
+msgstr ""
+
+#: kcmgtk.cpp:71
+msgid "Change the appearance of GTK+ applications in KDE"
+msgstr ""
+
+#: kcmgtk.cpp:107
+#, kde-format
+msgid "%1 (size %2)"
+msgstr "%1 (размер %2)"
+
+#. i18n: file: kcmgtkwidget.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:3 rc.cpp:44
+#, fuzzy
+msgid "GTK+ Styles"
+msgstr "GTK стилове"
+
+#. i18n: file: kcmgtkwidget.ui:45
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:6 rc.cpp:47
+msgid "&Widget style:"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:71
+#. i18n: ectx: property (text), widget (QPushButton, warning3)
+#: rc.cpp:9 rc.cpp:50
+msgid "Change search paths..."
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:94
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:12 rc.cpp:53
+#, fuzzy
+msgid "GTK+ Fonts"
+msgstr "GTK шрифтове"
+
+#. i18n: file: kcmgtkwidget.ui:124
+#. i18n: ectx: property (text), widget (QRadioButton, fontKde)
+#: rc.cpp:15 rc.cpp:56
+#, fuzzy
+msgid "Use m&y KDE fonts in GTK+ applications"
+msgstr "Използване шрифтовете на &KDE в GTK приложения"
+
+#. i18n: file: kcmgtkwidget.ui:131
+#. i18n: ectx: property (text), widget (QRadioButton, fontOther)
+#: rc.cpp:18 rc.cpp:59
+msgid "Use another font:"
+msgstr "Използване на друг шрифт:"
+
+#. i18n: file: kcmgtkwidget.ui:138
+#. i18n: ectx: property (text), widget (QPushButton, fontChange)
+#: rc.cpp:21 rc.cpp:62
+msgid "Change..."
+msgstr "Промяна..."
+
+#. i18n: file: kcmgtkwidget.ui:165
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, qtcurveFontLabel)
+#: rc.cpp:24 rc.cpp:65
+msgid "The QtCurve widget theme uses your KDE font settings"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:184
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: rc.cpp:27 rc.cpp:68
+#, fuzzy
+msgid ""
+"Note that changes made here will only affect GTK+ applications when KDE is "
+"running.  To change the styles and fonts used by applications in GNOME, use "
+"the GNOME configuration tools."
+msgstr ""
+"Имайте предвид, че направените тук промени засягат GTK приложенията само "
+"когато KDE е стартирано. За да промените стиловете и шрифтовете на GNOME, "
+"използвайте съответните конфигурационни инструменти."
+
+#. i18n: file: searchpaths.ui:20
+#. i18n: ectx: property (windowTitle), widget (QWidget, SearchPaths)
+#: rc.cpp:30 rc.cpp:71
+msgid "Change search paths"
+msgstr ""
+
+#. i18n: file: searchpaths.ui:26
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33 rc.cpp:74
+msgid ""
+"You can set a custom search path here if we were not able to find a GTK+ "
+"theme engine. This could happen if the theme engine was installed to a "
+"custom location."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:50
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: rc.cpp:36 rc.cpp:77
+msgid "Add"
+msgstr ""
+
+#. i18n: file: searchpaths.ui:63
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: rc.cpp:39 rc.cpp:80
+msgid "Remove"
+msgstr ""
+
+#: rc.cpp:40
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: rc.cpp:41
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#~ msgid "Form2"
+#~ msgstr "Form2"
+
+#~ msgid "&Use my KDE style in GTK applications"
+#~ msgstr "&Използване стила на KDE в GTK приложенията"
+
+#~ msgid "Use another style:"
+#~ msgstr "Използване на друг стил:"
+
+#~ msgid "Gtk-Qt theme engine homepage"
+#~ msgstr "Интернет страница на Gtk-Qt theme engine"
+
+#~ msgid "http://gtk-qt.ecs.soton.ac.uk/"
+#~ msgstr "http://gtk-qt.ecs.soton.ac.uk/"
+
+#~ msgid ""
+#~ "<b>Warning:</b> The Gtk-Qt theme engine is not installed.  This means you "
+#~ "will not be able to use your KDE style in GTK applications."
+#~ msgstr ""
+#~ "<b>Предупреждение:</b> Не е инсталиран Gtk-Qt theme engine.  Това "
+#~ "означава, че не можете да използвате стила на KDE в GTK приложенията."
+
+#~ msgid "The Quick Brown Fox Jumped Over The Lazy Dog"
+#~ msgstr "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯабвгдежзийклмнопрстуфхцчшщъьюя"
+
+#~ msgid "Preview line 1"
+#~ msgstr "Предварителен преглед 1"
+
+#~ msgid "Firefox and Thunderbird"
+#~ msgstr "Firefox и Thunderbird"
+
+#~ msgid ""
+#~ "Scrollbar buttons may sometimes be displayed incorrectly in Firefox and "
+#~ "Thunderbird.  This can be fixed by installing some files into your "
+#~ "Mozilla profile."
+#~ msgstr ""
+#~ "Възможно е бутоните в лентата за превъртане да не се показват правилно "
+#~ "във Firefox и Thunderbird.  Този проблем може да се реши чрез "
+#~ "инсталирането на няколко файла в профила на Mozilla."
+
+#~ msgid "I&nstall scrollbar fix..."
+#~ msgstr "&Инсталиране на решението..."
+
+#~ msgid "Please select the profiles that you want to fix:"
+#~ msgstr "Моля, изберете профила, който искате да поправите:"
+
+#~ msgid "Profile"
+#~ msgstr "Профил"
+
+#~ msgid "No Mozilla profiles found"
+#~ msgstr "Не са намерени профили на Mozilla"
+
+#~ msgid "Could not load Mozilla profiles"
+#~ msgstr "Профилът на Mozilla не може да бъде зареден"
+
+#~ msgid "Mozilla profile"
+#~ msgstr "Профил на Mozilla"
+
+#~ msgid ""
+#~ "Your Mozilla profile was updated sucessfully.  You must close and restart "
+#~ "all Firefox and Thunderbird windows for the changes to take effect"
+#~ msgstr ""
+#~ "Профилът на Mozilla беше обновен успешно.  За да се задействат промените "
+#~ "трябва да затворите и рестартирате Firefox и Thunderbird."
+
+#~ msgid "Thunderbird"
+#~ msgstr "Thunderbird"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Could not write to %1"
+#~ msgstr "Неуспешен запис в %1"

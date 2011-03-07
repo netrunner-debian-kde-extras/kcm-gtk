@@ -1,0 +1,24 @@
+0.5.3:
+----
+* Add full pt_BR translation, thanks to Luiz Fernando Ranghetti
+* Add a crapton more of translations from Launchpad. Thanks everyone!
+
+0.5.2:
+----
+* Initial import of Rosetta translations
+* Sync translations from gtk-qt-engine
+
+0.5.1:
+----
+* Don't install desktop file to xdg applications directory but KDE 4's service
+  directory
+* Cleanup desktop file
+* Notify the user that QtCurve's font settings are taken from KDE
+
+0.5:
+----
+* Initial release, strip away gtk-qt-engine specific configuration items from
+  the original gtk-qt-engine kcm module
+* Give the search dialog add/remove button icons
+* Fix a buncha krazy issues (issues the krazy2 software reported)
+* Polish the Search Paths dialog

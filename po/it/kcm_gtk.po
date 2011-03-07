@@ -1,0 +1,234 @@
+# Translation of it to Italian
+# This file is put in the public domain.
+# Davide Madrisan <davide.madrisan@qilinux.it>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: it\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-08-13 20:10+0000\n"
+"PO-Revision-Date: 2009-07-30 00:27+0000\n"
+"Last-Translator: Davide Madrisan <Unknown>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-10-23 01:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: kcmgtk.cpp:67
+msgid "kcm_gtk"
+msgstr ""
+
+#: kcmgtk.cpp:68
+msgid "GTK Styles and Fonts"
+msgstr ""
+
+#: kcmgtk.cpp:69
+msgid "(C) 2008 David Sansome"
+msgstr ""
+
+#: kcmgtk.cpp:70
+msgid "(C) 2009 Jonathan Thomas"
+msgstr ""
+
+#: kcmgtk.cpp:71
+msgid "Change the appearance of GTK+ applications in KDE"
+msgstr ""
+
+#: kcmgtk.cpp:107
+#, kde-format
+msgid "%1 (size %2)"
+msgstr "%1 (dimensione %2)"
+
+#. i18n: file: kcmgtkwidget.ui:19
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:3 rc.cpp:44
+msgid "GTK+ Styles"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:45
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:6 rc.cpp:47
+msgid "&Widget style:"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:71
+#. i18n: ectx: property (text), widget (QPushButton, warning3)
+#: rc.cpp:9 rc.cpp:50
+msgid "Change search paths..."
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:94
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:12 rc.cpp:53
+msgid "GTK+ Fonts"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:124
+#. i18n: ectx: property (text), widget (QRadioButton, fontKde)
+#: rc.cpp:15 rc.cpp:56
+msgid "Use m&y KDE fonts in GTK+ applications"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:131
+#. i18n: ectx: property (text), widget (QRadioButton, fontOther)
+#: rc.cpp:18 rc.cpp:59
+msgid "Use another font:"
+msgstr "Utilizza un altro tipo di carattere:"
+
+#. i18n: file: kcmgtkwidget.ui:138
+#. i18n: ectx: property (text), widget (QPushButton, fontChange)
+#: rc.cpp:21 rc.cpp:62
+msgid "Change..."
+msgstr "Modifica..."
+
+#. i18n: file: kcmgtkwidget.ui:165
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, qtcurveFontLabel)
+#: rc.cpp:24 rc.cpp:65
+msgid "The QtCurve widget theme uses your KDE font settings"
+msgstr ""
+
+#. i18n: file: kcmgtkwidget.ui:184
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: rc.cpp:27 rc.cpp:68
+msgid ""
+"Note that changes made here will only affect GTK+ applications when KDE is "
+"running.  To change the styles and fonts used by applications in GNOME, use "
+"the GNOME configuration tools."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:20
+#. i18n: ectx: property (windowTitle), widget (QWidget, SearchPaths)
+#: rc.cpp:30 rc.cpp:71
+msgid "Change search paths"
+msgstr ""
+
+#. i18n: file: searchpaths.ui:26
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33 rc.cpp:74
+msgid ""
+"You can set a custom search path here if we were not able to find a GTK+ "
+"theme engine. This could happen if the theme engine was installed to a "
+"custom location."
+msgstr ""
+
+#. i18n: file: searchpaths.ui:50
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: rc.cpp:36 rc.cpp:77
+msgid "Add"
+msgstr ""
+
+#. i18n: file: searchpaths.ui:63
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: rc.cpp:39 rc.cpp:80
+msgid "Remove"
+msgstr ""
+
+#: rc.cpp:40
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr " ,Launchpad Contributions:,Davide Madrisan"
+
+#: rc.cpp:41
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",,"
+
+#~ msgid ""
+#~ "_: NAME OF TRANSLATORS\n"
+#~ "Your names"
+#~ msgstr "Davide Madrisan, ,Launchpad Contributions:,Davide Madrisan"
+
+#~ msgid "No Mozilla profiles found"
+#~ msgstr "Non è stato trovato alcun profilo di Mozilla"
+
+#~ msgid "Could not load Mozilla profiles"
+#~ msgstr "Impossibile caricare i profili di Mozilla"
+
+#~ msgid "Mozilla profile"
+#~ msgstr "Profilo di Mozilla"
+
+#~ msgid "Thunderbird"
+#~ msgstr "Thunderbird"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid ""
+#~ "Your Mozilla profile was updated sucessfully.  You must close and restart "
+#~ "all Firefox and Thunderbird windows for the changes to take effect"
+#~ msgstr ""
+#~ "Il profilo personale di Mozilla è stato aggiornato con successo.  Occorre "
+#~ "chiudere tutte le finestre attive di Mozilla e Thunderbird.  Le modifiche "
+#~ "avranno effetto dal prossimo avvio di questi applicativi."
+
+#~ msgid "Could not write to %1"
+#~ msgstr "Impossibile scrivere in %1"
+
+#~ msgid "Restart KDE"
+#~ msgstr "Riavviare KDE"
+
+#~ msgid ""
+#~ "Your changes have been saved, but you will have to restart KDE for them to "
+#~ "take effect."
+#~ msgstr ""
+#~ "Le modifiche sono state salvate ma occorre riavviare KDE affinchè esse "
+#~ "abbiano effetto."
+
+#~ msgid "&Use my KDE style in GTK applications"
+#~ msgstr "Utilizza lo stile KDE nelle applicazioni GTK"
+
+#~ msgid "Use &another style:"
+#~ msgstr "Utilizza un altro stile:"
+
+#~ msgid "Gtk-Qt theme engine homepage"
+#~ msgstr "Homepage del motore di temi Gtk-Qt"
+
+#~ msgid ""
+#~ "<b>Warning:</b> The Gtk-Qt theme engine is not installed.  This means you "
+#~ "will not be able to use your KDE style in GTK applications."
+#~ msgstr ""
+#~ "<b>Warning:</b> Il motore di temi Gtk-Qt non è installato.  Non sarà "
+#~ "possibile applicare lo stile KDE alle applicazioni GTK."
+
+#~ msgid "The Quick Brown Fox Jumped Over The Lazy Dog"
+#~ msgstr "Ma La Volpe Col Suo Balzo Ha Raggiunto Il Quieto Fido"
+
+#~ msgid "Preview line 1"
+#~ msgstr "Anteprima della linea 1"
+
+#~ msgid "Firefox and Thunderbird"
+#~ msgstr "Firefox e Thunderbird"
+
+#~ msgid ""
+#~ "Scrollbar buttons may sometimes be displayed incorrectly in Firefox and "
+#~ "Thunderbird.  This can be fixed by installing some files into your Mozilla "
+#~ "profile."
+#~ msgstr ""
+#~ "I pulsanti della barra di scorrimento talvolta vengono visualizzati in modo "
+#~ "scorretto in Firefox e Thunderbird.  Questo problema può essere corretto "
+#~ "installando alcuni file nel tuo profilo personale di Mozilla."
+
+#~ msgid "I&nstall scrollbar fix..."
+#~ msgstr "Installare la correzione della barra di scorrimento..."
+
+#~ msgid "Profile"
+#~ msgstr "Profilo"
+
+#~ msgid "Please select the profiles that you want to fix:"
+#~ msgstr "Selezionare i profili che si desidera correggere:"
+
+#~ msgid "Details..."
+#~ msgstr "Dettagli..."
+
+#~ msgid "GTK Keyboard Shortcuts"
+#~ msgstr "Scorciatoie della tastiera GTK"
+
+#~ msgid "Use Emacs-like key&board shortcuts for text editing"
+#~ msgstr ""
+#~ "Utilizzare le scorciatoie della tastiera in stile Emacs per la modifica del "
+#~ "testo"
+
+#~ msgid "Emacs Keyboard Shortcuts"
+#~ msgstr "Scorciatoie Emacs della tastiera"
