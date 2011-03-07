@@ -1,3 +1,21 @@
+kcm-gtk (2:0.5.3-1) unstable; urgency=low
+
+  * First upload to Debian (Closes: #617243)
+
+  * Start from the Ubuntu packaging; thanks!
+  * Set Maintainer to pkg-kde-extras and myself as Uploader.
+  * Remove packages only in Ubuntu.
+  * Import patches from gtk-qt-engine:
+     - 04_no_kde4_in_configfile.diff
+     - 05_dont_set_userfont.patch
+  * Add a 2: epoch to allow flawless upgrades from src:gtk-qt-engine.
+  * Use gtk-qt-engine's kde-config-gtk-style short description.
+  * Add a debian/watch.
+  * Add Vcs-* fields.
+  * Update copyright file.
+
+ -- Didier Raboud <odyx@debian.org>  Mon, 07 Mar 2011 16:17:32 +0100
+
 kcm-gtk (0.5.3-0ubuntu6) maverick; urgency=low
 
   * Change the kcm category to "application-appearance" so it isn't in
