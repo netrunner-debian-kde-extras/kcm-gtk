@@ -10,12 +10,9 @@ Build-Depends: debhelper (>= 7.3.16~),
 Standards-Version: 3.9.1
 Homepage: https://launchpad.net/kcm-gtk
 
-Package: kde-config-gtk
+Package: kde-config-gtk-style
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Replaces: kde-config-gtk-style
-Provides: kde-config-gtk-style
-Conflicts: kde-config-gtk-style
 Description: Configuration module for GTK+ appearance in KDE
  This is a configuration module for System Settings for configuring the
  widget style and fonts of GTK+ applications in KDE. It is derived from
