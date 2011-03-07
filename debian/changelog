@@ -1,0 +1,67 @@
+kcm-gtk (0.5.3-0ubuntu6) maverick; urgency=low
+
+  * Change the kcm category to "application-appearance" so it isn't in
+    lost+found anymore.
+  * Bump Standards-Version to 3.9.1.
+  * kde-config-gtk: Break instead of conflict with kcm-gtk.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Mon, 02 Aug 2010 16:53:48 +0200
+
+kcm-gtk (0.5.3-0ubuntu5) maverick; urgency=low
+
+  * Add a binary transitional package for kcm-gtk.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Mon, 07 Jun 2010 12:26:28 +0200
+
+kcm-gtk (0.5.3-0ubuntu4) maverick; urgency=low
+
+  * Add cmake to build-dependencies as kdelibs5-dev no longer depends on it.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Tue, 18 May 2010 19:11:19 +0200
+
+kcm-gtk (0.5.3-0ubuntu3) maverick; urgency=low
+
+  * Rename binary package to kde-config-gtk to match Debian's policy for
+    naming KDE configuration modules (LP: #582277).
+  * Make kde-config-gtk Conflict/Replace/Provide kcm-gtk.
+  * Drop "Conflict and Replace gtk-qt-engine", no longer needed.
+  * Switch to dh7 rules and source format 3.0 (quilt).
+  * Bump Standards-Version to 3.8.4, no changes needed.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Tue, 18 May 2010 16:19:59 +0200
+
+kcm-gtk (0.5.3-0ubuntu2) lucid; urgency=low
+
+  * rebuild rest of main for armel armv7/thumb2 optimization;
+    UbuntuSpec:mobile-lucid-arm-gcc-v7-thumb2
+
+ -- Alexander Sack <asac@ubuntu.com>  Sat, 06 Mar 2010 13:29:44 +0100
+
+kcm-gtk (0.5.3-0ubuntu1) karmic; urgency=low
+
+  * New upstream bugfix release:
+    - Fixes the loading of translations (LP: #458695)
+  * Bump Standards-Version to 3.8.3, no changes necessary
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Fri, 23 Oct 2009 09:08:44 -0400
+
+kcm-gtk (0.5.2-0ubuntu1) karmic; urgency=low
+
+  * New upstream release (LP: #406471)
+  * Conflict and replace gtk-qt-engine, as it is obsolete and has been
+    removed from distribution
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Tue, 28 Jul 2009 13:30:41 -0400
+
+kcm-gtk (0.5.1-0ubuntu1) karmic; urgency=low
+
+  * New upstream bugfix release (LP: #404628)
+  * Bump Standards-Version to 3.8.2, no changes required
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Sat, 25 Jul 2009 14:08:02 -0400
+
+kcm-gtk (0.5-0ubuntu1) karmic; urgency=low
+
+  * Initial release (LP: #388462)
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Wed, 17 Jun 2009 09:40:58 -0500

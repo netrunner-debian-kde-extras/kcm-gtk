@@ -1,0 +1,11 @@
+Description: Change kcm category to application-appearance for kde >= 4.5
+ so it isn't in lost+found anymore.
+Author: Felix Geyer <debfx-pkg@fobos.de>
+
+--- kcm-gtk-0.5.3.orig/kcmgtk.desktop
++++ kcm-gtk-0.5.3/kcmgtk.desktop
+@@ -29,3 +29,4 @@ X-KDE-Library=kcm_gtk
+ X-KDE-ParentApp=kcontrol
+ Categories=Qt;KDE;X-KDE-settings-looknfeel;
+ X-KDE-System-Settings-Parent-Category=appearance
++X-KDE-System-Settings-Parent-Category-V2=application-appearance
