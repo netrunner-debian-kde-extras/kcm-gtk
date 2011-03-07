@@ -33,6 +33,9 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL-2'.
 
+The Debian packaging is :
 
-The Debian packaging is copyright 2009, Jonathan Thomas <echidnaman@kubuntu.org> and
-is licensed under the GPLv2, see above.
+    Copyright © 2009, Jonathan Thomas <echidnaman@kubuntu.org> 
+    Copyright © 2011, Didier Raboud <odyx@debian.org>
+
+and is licensed under the GPLv2, see above.
