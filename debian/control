@@ -8,6 +8,8 @@ Build-Depends: debhelper (>= 7.3.16~),
                cmake,
                kdelibs5-dev
 Standards-Version: 3.9.1
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-extras/kcm-gtk.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-extras/kcm-gtk.git
 Homepage: https://launchpad.net/kcm-gtk
 
 Package: kde-config-gtk-style
