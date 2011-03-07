@@ -1,1 +1,3 @@
 01_kcm_category.patch
+04_no_kde4_in_configfile.diff
+05_dont_set_userfont.patch
