@@ -15,7 +15,7 @@ Homepage: https://launchpad.net/kcm-gtk
 Package: kde-config-gtk-style
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Configuration module for GTK+ appearance in KDE
+Description: KDE configuration module for GTK+ 2.x style selection
  This is a configuration module for System Settings for configuring the
  widget style and fonts of GTK+ applications in KDE. It is derived from
  gtk-qt-engine's configuration module.
